@@ -611,7 +611,7 @@ Mensagem: ${formData.mensagem}`
       {/* Formulário de Orçamento */}
       {/* Substituindo a seção de Formulário de Orçamento */}
       {/* Formulário de Orçamento */}
-      <section className="w-full py-8 md:py-1 px-4 md:px-8 lg:px-16 bg-[#1d4747] text-white">
+      <section className="w-full py-8 md:py-1 px-4 md:px-8 lg:px-16 bg-[#4c4c4c] text-white">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 items-stretch">
             <div className="space-y-4 md:space-y-6 py-4 md:py-6">
@@ -645,7 +645,7 @@ Mensagem: ${formData.mensagem}`
                       href="mailto:estruturalnegócios@gmail.com"
                       className="ml-1 md:ml-2 underline hover:text-gray-200 text-sm md:text-base"
                     >
-                      estruturalnegócios@gmail.com
+                      vendas@estrutural.com.br
                     </a>
                   </div>
 
@@ -653,10 +653,10 @@ Mensagem: ${formData.mensagem}`
                     <Phone className="h-4 w-4 md:h-5 md:w-5 mr-2 md:mr-3" />
                     <span className="text-sm md:text-base">WhatsApp: </span>
                     <a
-                      href="https://wa.me/5517996468616"
+                      href="https://wa.me/5517997398569"
                       className="ml-1 md:ml-2 underline hover:text-gray-200 text-sm md:text-base"
                     >
-                      17 99646-8616
+                      17 99739-8569
                     </a>
                   </div>
 
