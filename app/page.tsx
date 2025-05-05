@@ -30,7 +30,7 @@ export default function Home() {
   })
 
   const handleWhatsAppRedirect = (message = "") => {
-    const baseUrl = "https://wa.me/5517996468616"
+    const baseUrl = "https://wa.me/5517997398569"
     const text = message || "Olá, gostaria de solicitar um orçamento para serviços gráficos."
     window.open(`${baseUrl}?text=${encodeURIComponent(text)}`, "_blank")
   }
@@ -54,7 +54,7 @@ Mensagem: ${formData.mensagem}`
     <main className="flex min-h-screen flex-col items-center relative">
       {/* Botão flutuante de WhatsApp */}
       <a
-        href="https://wa.me/5517996468616?text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20para%20serviços%20gráficos."
+        href="https://wa.me/5517997398569?text=Olá,%20gostaria%20de%20solicitar%20um%20orçamento%20para%20serviços%20gráficos."
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition-all duration-300 hover:scale-110"
